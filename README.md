@@ -27,7 +27,10 @@ I'm a **GitHub & DevOps Consultant** at [Xebia](https://xebia.com) based in Rott
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
+![GitHub Enterprise](https://img.shields.io/badge/-GitHub%20Enterprise-000000?style=flat-square&logo=github&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-2EA043?style=flat-square&logo=githubcopilot&logoColor=white)
+![GitHub Advanced Security](https://img.shields.io/badge/-GitHub%20Advanced%20Security-000000?style=flat-square&logo=github&logoColor=white)
+![git](https://img.shields.io/badge/-git-F05032?style=flat-square&logo=git&logoColor=white)
 ---
 
 ## 🎓 Certifications
@@ -68,6 +71,7 @@ I'm passionate about sharing knowledge and constantly learning — the tech land
 - 💼 [LinkedIn](https://linkedin.com/in/virginia-hamra)
 - 📧 <virginia.hamra@gmail.com>
 - 🌐 [Online CV](https://vxhamra.github.io/my-cv/)
+- 📝 Blogging about GitHub and DevOps: [vxhamra.github.io](https://vxhamra.github.io/)
 
 ---
 
