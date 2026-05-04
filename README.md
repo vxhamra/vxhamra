@@ -67,7 +67,7 @@ I'm passionate about sharing knowledge and constantly learning — the tech land
 
 - 💼 [LinkedIn](https://linkedin.com/in/virginia-hamra)
 - 📧 <virginia.hamra@gmail.com>
-- 🌐 [Online CV](https://virginia-hamra.github.io/my-cv/)
+- 🌐 [Online CV](https://vxhamra.github.io/my-cv/)
 
 ---
 
