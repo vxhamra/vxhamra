@@ -2,7 +2,7 @@
 
 🎵 → 💻 — From music to migrations.
 
-I'm a **GitHub & DevOps Consultant** at [Xebia](https://xebia.com) based in Rotterdam, Netherlands. I help teams adopt GitHub Enterprise, modernize their CI/CD, and automate the boring parts away.
+I'm a **GitHub & DevOps Consultant** at [Xebia](https://xebia.com) based in Rotterdam, Netherlands. I help teams navigate governance decisions, set up GitHub Enterprise in ways that work for everyone, and make the day-to-day experience smoother for developers, admins, and leadership alike.
 
 ---
 
@@ -32,7 +32,8 @@ I'm a **GitHub & DevOps Consultant** at [Xebia](https://xebia.com) based in Rott
 
 ## 🎓 Certifications
 
-- 🟦 **Microsoft Azure Fundamentals** (AZ-900)
+- 🟦 **Microsoft Azure Administrator** (AZ-104)
+- 🟩 **Google Cloud Certified Associate Cloud Engineer**
 - 🐙 **GitHub Actions**
 - 🛡️ **GitHub Advanced Security**
 
